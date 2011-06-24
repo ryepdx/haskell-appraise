@@ -1,0 +1,6 @@
+Began writing this after putting together a similar script in Prolog.
+Prolog was, with its built-in backtracking, a natural choice for this sort of problem. However, I was trying to learn Haskell at the time and decided it would be worthwhile to try porting the code to that language.
+
+Finds the exchange rate between two things given a list of triples expressing exchange rates between various items.
+
+Can only search the graph in one direction as of writing this. Needs to have backtracking added in at some point.
